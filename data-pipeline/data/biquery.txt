@@ -1,0 +1,4 @@
+select  *
+from bigquery-public-data.goog_blockchain_ethereum_mainnet_us.transactions
+where block_timestamp > '2025-01-01'
+
