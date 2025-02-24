@@ -57,8 +57,8 @@ This repository contains the data pipeline for **Sentinel**, an AI model designe
 ### Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/sentinel-ai-pipeline.git
-   cd sentinel-ai-pipeline
+   git clone https://github.com/juv1nsk1/dtcc-ai.git
+   cd dtcc-ai.git
    ```
 2. Install dependencies:
    ```sh
@@ -81,14 +81,10 @@ This repository contains the data pipeline for **Sentinel**, an AI model designe
    ts-node src/export_training_file.ts
    ```
 
-## Contribution Guidelines
-- Fork the repository
-- Create a feature branch
-- Submit a pull request with a detailed explanation
 
 ## License
 This project is licensed under the MIT License.
 
 ## Contact
-For any questions, contact **ljs65@duke.edu** or open an issue in the repository.
+For any questions, contact **luciano.silva@duke.edu** or open an issue in the repository.
 
