@@ -3,6 +3,8 @@
 ## Overview
 This repository contains the data pipeline for **Sentinel**, an AI model designed to score the risk of blockchain wallets. The pipeline extracts, processes, and prepares data for training the Sentinel model.
 
+![web interface screenshot](screenshot.png)
+
 ## Directory Structure
 
 ```
