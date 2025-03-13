@@ -27,7 +27,7 @@ We propose contributing an open-source AML analytics tool to blockchain ecosyste
 ## Backlog
 
 - Token Coverage: Extend support to memecoins and low-liquidity stablecoins, addressing unique risk factors.
--	AML Patterns: Enhance AI detection for liquidity pool manipulations and emerging DeFi laundering techniques.
+-	AML Patterns: Enhance AI detection for liquidity pool usage and emerging DeFi laundering techniques.
 
 ## Current State
 
