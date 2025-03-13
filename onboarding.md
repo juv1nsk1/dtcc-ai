@@ -14,7 +14,7 @@ To achieve this, an open-source initiative is needed to lead the development of 
 
 ## Proposed Solution
 
-We propose contributing an open-source AML analytics tool to the FINOS ecosystem, leveraging artificial intelligence and blockchain technology to enhance AML monitoring, risk assessment, and regulatory compliance. 
+We propose contributing an open-source AML analytics tool to blockchain ecosystems, leveraging artificial intelligence to enhance AML monitoring, risk assessment, and regulatory compliance. 
 
 ## Tentative Roadmap
 
