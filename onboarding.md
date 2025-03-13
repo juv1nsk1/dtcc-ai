@@ -18,15 +18,16 @@ We propose contributing an open-source AML analytics tool to blockchain ecosyste
 
 ## Tentative Roadmap
 
-• Data Processing and Feature Engineering: Over 100 AI-powered features for blockchain transaction monitoring.
+-	Feature Engineering: Expand the AI model with 30+ features for enhanced transaction monitoring and risk detection.
+-	Data Pipeline: Automate historical transaction processing for real-time and retrospective AML analysis.
+-	Compatibility: Develop a plugin for seamless integration with Hyperledger and CBDC frameworks.
+-	Regulatory: Align with financial institutions’ AML workflows, incorporating KYT and global compliance standards.
+-	Interface: Provide a user-friendly dashboard and a Dockerized API for streamlined deployment.
 
-• Automated Risk Scoring: Assigns dynamic risk levels based on historical transaction data, patterns, and heuristics.
+## Backlog
 
-• Blockchain Interoperability: Supports Ethereum Virtual Machine (EVM) blockchains, with specialized features for Hyperledger and CBDC projects.
-
-• Regulatory Compliance Framework: Enables integration with financial institutions’ AML workflows, supporting Know Your Transaction (KYT) and other compliance standards.
-
-• Web Interface and API: Provides a user-friendly dashboard and an API for seamless integration into existing AML compliance processes.
+- Token Coverage: Extend support to memecoins and low-liquidity stablecoins, addressing unique risk factors.
+-	AML Patterns: Enhance AI detection for liquidity pool manipulations and emerging DeFi laundering techniques.
 
 ## Current State
 
@@ -63,14 +64,15 @@ Hackathon Prototype: Initial version developed and tested during the DTCC AI hac
 
 - Luciano Juvinski | luciano.silva@duke.edu | https://github.com/juv1nsk1
 - Haochen Li | haochen.li2@duke.edu | https://github.com/Harrisous
+
+### Confirmed contributors
+
 - Yiqing Liu | yiqing.liu@duke.edu | https://github.com/ludaladila
 - Yifei Ren | yifei.ren@duke.edu | https://github.com/yifei888
 - Cartier Huang | cartier.huang@duke.edu | https://github.com/cw183
 
-### Confirmed contributors
-- 
-
 ### Target Contributors
+
 We are looking for industry collaborators to help us maintain and provide real-world feedback on the project.
 
 ## Project Communication Channel(s)
